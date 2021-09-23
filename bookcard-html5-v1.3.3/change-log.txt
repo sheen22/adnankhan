@@ -1,0 +1,148 @@
+
+---
+BOOKCARD HTML5 TEMPLATE - CHANGE LOG
+
+v1.3.3 - 13 April 2020
+
+- fixed portfolio masonry layout issue
+
+Changed Files
+- js/jquery.isotope.min.js
+
+
+
+
+---
+
+v1.3.2 - 2 Oct 2019
+
+- fixed: homepage book layout is too tall on high-res screens
+- fixed: homepage cover broken on EDGE
+
+changed files
+- css/main.css
+- css/book.css
+
+
+
+---
+
+v.1.3.1 - 25 July 2017
+
+- fixed : book pages content overflow issue
+- fixed : latest tweets not working issue
+- fixed : ipad pro layout
+- fixed : portfolio filters not working on ios9 devices
+
+changed files
+- css/main.css
+- css/book.css
+- js/main.js
+- js/jquery.isotope.min.js
+- js/antiscroll.js
+- js/twitterFetcher_v10_min.js
+
+
+---
+
+v.1.3 - 25 August 2016
+---
+
+added : blog
+added : latest from the blog to cover page
+improved : latest tweets works with just username, without widget-id 
+
+changed files
+- css/main.css
+- css/style.css
+- js/main.js
+- js/jquery.fitvids.js
+- js/twitterFetcher_v10_min.js
+- added = blog.html / blog-no-sidebar.html / blog-single.html / blog-single-no-sidebar.html
+- removed html data attribute : data-twitterId=""
+- added new html data attribute : data-twitter-name="your-twitter-username-here"
+
+v1.2.3 - 28 April 2016
+---
+
+fixed : latest tweets not showing
+fixed : fulscreen video bug in chrome
+improved : classic layout
+improved : ipad landscape layout
+fixed : layout issue on android tablets
+
+changed files
+- js/main.js
+- js/twitterFetcher_v10_min.js
+- css/main.css
+- css/book.css
+
+
+---
+
+v1.2.2 - 08.07.2014
+---
+fixed : portfolio items disappear on Safari 7
+fixed : firefox 3d layout issue
+
+changed files
+- js/main.js
+- css/book.css
+
+
+---
+
+v1.2.1 - 19.03.2014
+---
+fixed : close icon and ribbon blurry on retina devices
+added : new option: open the book if url contains portfolio keyword
+
+changed files
+- css/main.css
+- js/main.js
+
+
+---
+
+
+v1.2 - 18 December 2013
+---
+fixed : ie11 layout
+improved : twitter icon on cover page is now linkable
+
+changed files;
+- js/main.js
+- css/main.css
+- index.html : cover page twitter widget markup
+
+
+
+v1.1 - 11 October 2013
+--
+updated : twitter widget
+updated : documentation
+
+changed files;
+- js/twitterFetcher_v10_min.js
+- css/main.css
+
+
+---
+
+v1.0.1 - 01 October 2013
+--
+optimized : main script file
+fixed : tumblr social icon issue
+
+changed files;
+- js/main.js
+- css/main.css
+
+
+---
+
+
+v1.0 - 19 March 2013 
+--
+
+initial release
